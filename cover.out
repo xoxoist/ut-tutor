@@ -1,0 +1,17 @@
+mode: set
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:19.96,21.49 2 1
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:24.2,24.49 1 1
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:27.2,27.49 1 1
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:30.2,30.19 1 0
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:21.49,23.3 1 1
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:24.49,26.3 1 1
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:27.49,29.3 1 1
+github.com/xoxoist/ut-tutor/service/bravo/bravo.go:33.46,35.2 1 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:19.98,21.49 2 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:24.2,24.49 1 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:27.2,27.49 1 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:30.2,30.19 1 0
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:21.49,23.3 1 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:24.49,26.3 1 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:27.49,29.3 1 1
+github.com/xoxoist/ut-tutor/service/alpha/alpha.go:33.46,35.2 1 1
